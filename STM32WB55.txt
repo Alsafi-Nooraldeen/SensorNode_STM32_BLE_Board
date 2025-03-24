@@ -1,0 +1,216 @@
+Board Information Report
+Filename     : D:\Altium Design Projects\STM32_BLE_Board\STM32WB55.PcbDoc
+Date         : 3/22/2025
+Time         : 3:52:53 AM
+Time Elapsed : 00:00:01
+
+General
+    Board Size, 51.816mmx28.33mm
+    Components on board, 54
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 175
+    Connections routed, 175
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    L1, 0, 195, 0, 334, 0, 0, 24, 0
+    L2, 0, 0, 0, 0, 0, 0, 1, 0
+    L3, 0, 0, 0, 0, 0, 0, 1, 0
+    L4, 0, 0, 0, 8, 0, 0, 1, 0
+    Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 24
+    Top Assembly, 0, 0, 0, 108, 27, 0, 0, 0
+    Top 3D Body, 2, 0, 0, 218, 23, 0, 0, 32
+    Top Courtyard, 0, 0, 0, 130, 0, 0, 0, 0
+    Top Component Center, 0, 0, 0, 54, 0, 0, 0, 0
+    Bottom Assembly, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Courtyard, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom 3D Body, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Component Center, 0, 0, 0, 0, 0, 0, 0, 0
+    Multi-Layer, 0, 49, 150, 0, 0, 0, 3, 0
+    Top Paste, 0, 0, 0, 0, 0, 4, 0, 0
+    Top Overlay, 14, 0, 0, 46, 124, 0, 78, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 0, 0, 0, 78, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 8, 0, 0, 6, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 23
+
+Drill Pairs, Vias
+    L1 - L4, 150
+count : 1
+
+Layer, Sq.In., Sq.MM., Percent of layer
+    L1, 1.712, 1104.214, 75%
+    L2, 2.096, 1352.495, 92%
+    L3, 2.096, 1352.495, 92%
+    L4, 2.016, 1300.535, 89%
+count : 4
+
+Non-Plated Hole Size, Pads, Vias
+    0mm, 10, 0
+    0.65mm, 2, 0
+    1.067mm, 3, 0
+    2.4mm, 4, 0
+count : 4
+
+Plated Hole Size, Pads, Vias
+    0mm, 182, 0
+    0.2mm, 32, 0
+    0.25mm, 0, 3
+    0.3mm, 0, 147
+    2mm, 4, 0
+count : 5
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+    23.622mil / 55.118mil, 2
+    23.622mil / 66.929mil, 2
+count : 2
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    -0.2mm, 32
+    0mm, 9
+    0.4mm, 150
+    1mm, 4
+    1.2mm, 2
+    1.5mm, 2
+count : 6
+
+Mid Layer Annular Ring Size, Count
+    -0.2mm, 32
+    0mm, 9
+    0.4mm, 150
+    1mm, 4
+    1.2mm, 2
+    1.5mm, 2
+count : 6
+
+Bottom Layer Annular Ring Size, Count
+    -0.2mm, 32
+    0mm, 9
+    0.4mm, 150
+    1mm, 4
+    1.2mm, 2
+    1.5mm, 2
+count : 6
+
+Pad Solder Mask, Count
+    0mm, 138
+    0.025mm, 28
+    0.0254mm, 8
+    0.038mm, 68
+    0.05mm, 2
+count : 5
+
+Pad Paste Mask, Count
+    -1000mm, 1
+    -0.432mm, 6
+    0mm, 136
+    0.0762mm, 101
+count : 4
+
+Pad Pwr/Gnd Expansion, Count
+    0.508mm, 244
+count : 1
+
+Pad Relief Conductor Width, Count
+    0.254mm, 244
+count : 1
+
+Pad Relief Air Gap, Count
+    0.254mm, 244
+count : 1
+
+Pad Relief Entries, Count
+    4, 244
+count : 1
+
+Via Solder Mask, Count
+    0.1016mm, 150
+count : 1
+
+Via Pwr/Gnd Expansion, Count
+    0.508mm, 150
+count : 1
+
+Track Width, Count
+    0.05mm, 16
+    0.1mm, 69
+    0.127mm, 8
+    0.175mm, 80
+    0.2mm, 386
+    0.242mm, 29
+    0.254mm, 34
+    0.3mm, 4
+    0.34mm, 3
+    0.35mm, 144
+    0.3528mm, 96
+    0.381mm, 16
+    0.6096mm, 16
+    0.61mm, 3
+count : 14
+
+Arc Line Width, Count
+    0.1mm, 1
+    0.2mm, 4
+    0.25mm, 8
+    0.254mm, 7
+    0.381mm, 4
+count : 5
+
+Arc Radius, Count
+    0.0762mm, 1
+    0.1mm, 5
+    0.1016mm, 3
+    0.125mm, 6
+    0.9144mm, 4
+    1mm, 1
+    1.27mm, 4
+count : 7
+
+Arc Degrees, Count
+    90, 8
+    360, 16
+count : 2
+
+Text Height, Count
+    0.5mm, 1
+    0.7366mm, 1
+    0.762mm, 61
+    1mm, 48
+    1.524mm, 55
+    2mm, 8
+count : 6
+
+Text Width, Count
+    0.1mm, 28
+    0.15mm, 20
+    0.175mm, 1
+    0.2032mm, 16
+    0.254mm, 109
+count : 5
+
+Net Track Width, Count
+    0.1mm, 29
+    0.2mm, 3
+    0.254mm, 2
+count : 3
+
+Net Via Size, Count
+    0.7mm, 34
+count : 1
