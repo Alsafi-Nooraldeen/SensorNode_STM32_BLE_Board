@@ -1,0 +1,40 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:42:19 PM On 3/22/2025
+
+Output: ODB++ Files
+Type  : ODB
+From  : PCB Document [STM32WB55.PcbDoc]
+   Generated File[profile]
+   Generated File[stephdr]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[components]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[data]
+   Generated File[netlist]
+   Generated File[matrix]
+   Generated File[STM32WB55.REP]
+
+
+Files Generated   : 27
+Documents Printed : 0
+
+Finished Output Generation At 11:42:21 PM On 3/22/2025

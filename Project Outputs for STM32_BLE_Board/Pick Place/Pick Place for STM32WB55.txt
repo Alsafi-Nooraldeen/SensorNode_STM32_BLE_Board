@@ -1,0 +1,67 @@
+Altium Designer Pick and Place Locations
+D:\Altium Design Projects\STM32_BLE_Board\Project Outputs for STM32_BLE_Board\Pick Place\Pick Place for STM32WB55.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       22/03/25
+Time:       23:24
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                       Layer    Footprint                         Center-X(mil) Center-Y(mil) Rotation Description                                                                         
+R3         10K                           TopLayer RES_0402                          470.039       232.937       180      "Resistor SMD 0402"                                                                 
+U2         SHT40-AD1B-R2                 TopLayer FP-SHT40-AD1B-R2-MFG              505.472       140.378       270      "SENSOR HUMIDITY 100 RH SMD"                                                        
+C6         C0402C104K8RAC                TopLayer FP-C0402-BB-MFG                   505.472       52.378        0        "C0402 0.10 µF X7R 10.00% 10 V"                                                     
+J3         S4B-ZR-SM4A-TF(LF)(SN)        TopLayer FP-S4B-ZR-SM4A-TF_LF_SN-MFG       1671.000      164.464       180      "CONN HEADER SMD R/A 4POS 1.5MM"                                                    
+R7         5K1                           TopLayer RES_0402                          371.000       894.212       0        "Resistor SMD 0402"                                                                 
+R4         10K                           TopLayer RES_0402                          540.905       259.937       0        "Resistor SMD 0402"                                                                 
+C2         C0402C104K8RAC                TopLayer FP-C0402-BB-MFG                   1521.583      813.583       270      "C0402 0.10 µF X7R 10.00% 10 V"                                                     
+C10        C0402C104K8RAC                TopLayer FP-C0402-BB-MFG                   623.940       641.000       0        "C0402 0.10 µF X7R 10.00% 10 V"                                                     
+FB1        BLM18EG101TN1D                TopLayer FP-BLM18-0_15-t0_5-MFG            530.039       667.575       270      "Chip Ferrite Bead, 0603, 100O @ 100MHz, 25%, 0.045O, 2A"                           
+C21        C0402C104K8RAC                TopLayer FP-C0402-BB-MFG                   1050.748      758.000       180      "C0402 0.10 µF X7R 10.00% 10 V"                                                     
+C8         C0402C104K8RAC                TopLayer FP-C0402-BB-MFG                   475.000       709.898       90       "C0402 0.10 µF X7R 10.00% 10 V"                                                     
+C11        CL10A475KP8NNND               TopLayer FP-CL10-IPC_C                     1181.733      1045.000      180      "Cap Ceramic 4.7uF 10V X5R ±10% Pad SMD 0603 +85°C T/R"                             
+J2         S4B-ZR-SM4A-TF(LF)(SN)        TopLayer FP-S4B-ZR-SM4A-TF_LF_SN-MFG       1281.205      164.464       180      "CONN HEADER SMD R/A 4POS 1.5MM"                                                    
+J1         S4B-ZR-SM4A-TF(LF)(SN)        TopLayer FP-S4B-ZR-SM4A-TF_LF_SN-MFG       894.850       164.464       180      "CONN HEADER SMD R/A 4POS 1.5MM"                                                    
+C15        C0402C104K8RAC                TopLayer FP-C0402-BB-MFG                   1497.000      749.528       0        "C0402 0.10 µF X7R 10.00% 10 V"                                                     
+C14        C0402C104K8RAC                TopLayer FP-C0402-BB-MFG                   1095.000      581.093       180      "C0402 0.10 µF X7R 10.00% 10 V"                                                     
+C13        C0402C104K8RAC                TopLayer FP-C0402-BB-MFG                   1095.000      616.732       180      "C0402 0.10 µF X7R 10.00% 10 V"                                                     
+X2         NX2016SA-32MHZ-EXS00A-CS10820 TopLayer OSC_NX2016SA-24MHZ-EXS00A-CS10820 1506.669      937.575       0        "24 MHz - Crystal 6pF 80 Ohms 4-SMD, No Lead"                                       
+X1         NX2012SA-32.768K-STD-MUB-1    TopLayer XTAL_NX2012SA-32.768K-STD-MUB-1   1180.000      510.000       180      "32.768 kHz Â±20ppm Crystal 12.5pF 80 kOhms 2-SMD, No Lead"                         
+U4         MIC5504-3.3YM5-TR             TopLayer FP-SOT23-5LD-PL-1-MFG             537.598       536.181       270      "IC REG LINEAR 3.3V 300MA SOT23-5"                                                  
+SW1        DTSM-3                        TopLayer DTSM-3                            88.472        339.000       270      "Tactile Switch SMD SPST"                                                           
+R9         5k1                           TopLayer RES_0402                          238.559       384.000       0        "Resistor SMD 0402"                                                                 
+R8         R0402                         TopLayer RES_0402                          238.559       445.299       0        "Resistor SMD 0402"                                                                 
+R6         R0402                         TopLayer RES_0402                          371.000       776.000       0        "Resistor SMD 0402"                                                                 
+R5         220ohm                        TopLayer RES_0402                          1534.685      600.000       270      "Resistor SMD 0402"                                                                 
+R2         220ohm                        TopLayer RES_0402                          1700.528      448.590       270      "Resistor SMD 0402"                                                                 
+R1         220ohm                        TopLayer RES_0402                          1641.472      423.000       270      "Resistor SMD 0402"                                                                 
+L3         LQM21FN100M70L                TopLayer FP-LQM21FN_70-MFG                 1302.047      1026.000      180      "FIXED IND 10UH 100MA 780MOHM SMD"                                                  
+L2         LQG15WZ10NJ02D                TopLayer FP-LQG15WH_02-MFG                 1245.787      920.000       270      "Multilayer type Inductor for Automotive 10nH ±5% 0.19O 500mA 0402"                 
+L1         LQG15HS2N7S02D                TopLayer FP-LQG15HH_02-IPC_C               1648.000      774.213       0        "Multilayer type RF Inductor 2.7nH ±0.3nH 0.12O 800mA 0402"                         
+J6         USB4105-GF-A-060              TopLayer USB4105-GF-A-060                  192.400       845.000       270      "USB Connector Type C SMT 12 Pin"                                                   
+J5         73412-0110                    TopLayer MOLX-73412-0110_V                 1897.472      774.213       270      "MCRF, PCB Vertical Jack Receptacle, 50 Ohm, 4-Pin SMD, RoHS, Tape and Reel"        
+J4         TC2030                        TopLayer TC2030-FP                         862.000       622.000       270      "Tag-Connect No-Solder SWD Debug Connector DO NOT PLACE"                            
+U3         USBLC6-2SC6                   TopLayer SOT95P280X145-6N                  527.000       824.000       0        "Integrated Circuit"                                                                
+T1         DLF162500LT-5028A1            TopLayer DLF162500LT5028A1                 1777.020      774.213       0        Filter                                                                              
+D3         RED                           TopLayer LED_0402_RED                      1515.000      675.787       0        "LED 0402 RED SMD"                                                                  
+D2         D_TVS_0402                    TopLayer D_0402                            1621.787      343.000       0        "Diode TVS / ESD 0402"                                                              
+D1         D_TVS_0402                    TopLayer D_0402                            1720.213      343.000       180      "Diode TVS / ESD 0402"                                                              
+C24        C0402                         TopLayer CAP_0402                          1422.736      446.536       90       "Capacitor SMD 0402"                                                                
+C23        C0402                         TopLayer CAP_0402                          1377.263      446.536       90       "Capacitor SMD 0402"                                                                
+C22        CL10A475KP8NNND               TopLayer FP-CL10-IPC_C                     1309.842      915.000       0        "Cap Ceramic 4.7uF 10V X5R ±10% Pad SMD 0603 +85°C T/R"                             
+C20        C0402                         TopLayer CAP_0402                          1150.472      440.000       90       "Capacitor SMD 0402"                                                                
+C19        C0402                         TopLayer CAP_0402                          1209.528      440.000       90       "Capacitor SMD 0402"                                                                
+C18        C0402C104K8RAC                TopLayer FP-C0402-BB-MFG                   1190.669      1000.000      180      "C0402 0.10 µF X7R 10.00% 10 V"                                                     
+C16        C0402C104K8RAC                TopLayer FP-C0402-BB-MFG                   303.386       461.047       90       "C0402 0.10 µF X7R 10.00% 10 V"                                                     
+C17        CL10A475KP8NNND               TopLayer FP-CL10-IPC_C                     1181.733      955.000       180      "Cap Ceramic 4.7uF 10V X5R ±10% Pad SMD 0603 +85°C T/R"                             
+C12        C0402C104K8RAC                TopLayer FP-C0402-BB-MFG                   1190.669      910.000       180      "C0402 0.10 µF X7R 10.00% 10 V"                                                     
+C7         CL10A475KP8NNND               TopLayer FP-CL10-IPC_C                     631.000       509.685       90       "Cap Ceramic 4.7uF 10V X5R ±10% Pad SMD 0603 +85°C T/R"                             
+C9         CL10A475KP8NNND               TopLayer FP-CL10-IPC_C                     461.315       641.000       180      "Cap Ceramic 4.7uF 10V X5R ±10% Pad SMD 0603 +85°C T/R"                             
+C5         C0402                         TopLayer CAP_0402                          707.815       429.815       0        "Capacitor SMD 0402"                                                                
+C4         GRM1555C1HR30WA01D            TopLayer CAP_0402                          1707.000      754.528       90       "Multilayer Ceramic Capacitors MLCC - SMD/SMT 0.3 pF 50 VDC 0.05 pF 0402 C0G (NP0)" 
+C3         GRM1555C2AR80BA01D            TopLayer CAP_0402                          1589.000      754.528       90       "0.8 pF ±0.1pF 100V Ceramic Capacitor C0G, NP0 0402 (1005 Metric"                   
+C1         C0402C104K8RAC                TopLayer FP-C0402-BB-MFG                   1481.000      813.583       270      "C0402 0.10 µF X7R 10.00% 10 V"                                                     
+U1         STM32WB55CGU6                 TopLayer FP-STM32WB55CGU6-IPC_B            1295.000      725.000       90       "ULTRA-LOW-POWER DUAL CORE ARM CO"                                                  
