@@ -1,0 +1,34 @@
+Change Component Designator: OldDesignator=1 NewDesignator=F1
+Change Component Designator: OldDesignator=2 NewDesignator=F2
+Added Component: Designator=M1(Mounting-Hole)
+Added Component: Designator=M2(Mounting-Hole)
+Added Component: Designator=M3(Mounting-Hole)
+Added Component: Designator=M4(Mounting-Hole)
+Change Net Color : Old Net Color=RGB(255, 110, 110) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=RGB(0, 190, 0)
+Change Net Color : Old Net Color=RGB(110, 255, 255) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(110, 255, 255) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(110, 255, 255) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(110, 255, 255) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=RGB(229, 222, 197)
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=RGB(229, 222, 197)
+Change Net Color : Old Net Color=Blue New Net Color=Blue
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=RGB(0, 190, 0)
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=RGB(0, 190, 0)
+Change Net Color : Old Net Color=RGB(253, 131, 0) New Net Color=RGB(253, 131, 0)
+Change Net Color : Old Net Color=RGB(253, 131, 0) New Net Color=RGB(253, 131, 0)
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=RGB(0, 190, 0)
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=RGB(0, 190, 0)
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=RGB(0, 190, 0)
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=RGB(229, 222, 197)
+Change Net Color : Old Net Color=RGB(229, 222, 197) New Net Color=RGB(229, 222, 197)
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=RGB(0, 190, 0)
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=RGB(0, 190, 0)
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=RGB(0, 190, 0)
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=RGB(0, 190, 0)
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component M1 Mounting-Hole
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component M2 Mounting-Hole
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component M3 Mounting-Hole
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component M4 Mounting-Hole

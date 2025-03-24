@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=U1-33
+Removed Pin From Net: NetName=GND Pin=U1-49
+Change Component Designator: OldDesignator=C13 NewDesignator=C14
+Change Component Designator: OldDesignator=C14 NewDesignator=C13
+Change Component Designator: OldDesignator=R3 NewDesignator=R5
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Added Pin To Net: NetName=VDDUSB Pin=L2-2
+Added Pin To Net: NetName=GND Pin=U1-22
+Added Pin To Net: NetName=GND Pin=U1-32
+Added Pin To Net: NetName=VDDUSB Pin=U1-33
+Added Pin To Net: NetName=3V3 Pin=U1-40
+Change Net Name : Old Net Name=NetD1_K New Net Name=ESD_RX
+Change Net Name : Old Net Name=NetD2_K New Net Name=ESD_TX
+Change Net Name : Old Net Name=NetJ2_4 New Net Name=SWCLK
+Change Net Name : Old Net Name=SCL New Net Name=SHT_SCL
+Change Net Name : Old Net Name=SDA New Net Name=SHT_SDA
+Added Pin To Net: NetName=VFBSMPS Pin=C19-1
+Added Pin To Net: NetName=VFBSMPS Pin=L3-1
+Added Pin To Net: NetName=VFBSMPS Pin=U1-31
+Added Net: Name=VFBSMPS
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component R4 10K
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component R5 220ohm
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component R7 R0402
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component U2 SHT40-AD1B-R2

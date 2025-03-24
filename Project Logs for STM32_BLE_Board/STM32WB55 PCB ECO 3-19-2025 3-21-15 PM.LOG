@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=Dn New Net Name=D_N
+Change Net Name : Old Net Name=Dp New Net Name=D_P
+Change Net Color : Old Net Color=RGB(110, 255, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(110, 255, 255) New Net Color=Default
+Added Differential Pair: Name=D

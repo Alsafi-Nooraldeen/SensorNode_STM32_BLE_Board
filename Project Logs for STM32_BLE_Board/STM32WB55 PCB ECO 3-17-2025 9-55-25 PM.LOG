@@ -1,0 +1,6 @@
+Added Component: Designator=3(Mounting_Hole)
+Added Component: Designator=4(Mounting_Hole)
+Added Pin To Net: NetName=GND Pin=3-0
+Added Pin To Net: NetName=GND Pin=4-0
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component 3 Mounting_Hole
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component 4 Mounting_Hole

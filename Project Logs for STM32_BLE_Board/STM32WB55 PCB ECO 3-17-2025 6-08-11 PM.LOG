@@ -1,0 +1,19 @@
+Added Component: Designator=R?(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SHT_SCL Pin=R?-1
+Added Pin To Net: NetName=SHT_SDA Pin=R?-1
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C3 C0402C104K8RAC
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C9 CL10A475KP8NNND
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C11 C0402C104K8RAC
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component R? 220ohm
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component R? 220ohm

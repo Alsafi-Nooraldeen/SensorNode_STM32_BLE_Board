@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=STM32_BLE_Board Member=R?
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C11
+Change Component Designator: OldDesignator=R5 NewDesignator=R7
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Change Component Designator: OldDesignator=R8 NewDesignator=R10
+Change Component Designator: OldDesignator=R9 NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR10_1
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component R10 R0402
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component R11 5k1

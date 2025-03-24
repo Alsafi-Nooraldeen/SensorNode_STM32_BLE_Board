@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=3-0
+Removed Pin From Net: NetName=GND Pin=4-0
+Removed Member From Class: ClassName=STM32_BLE_Board Member=3
+Removed Member From Class: ClassName=STM32_BLE_Board Member=4

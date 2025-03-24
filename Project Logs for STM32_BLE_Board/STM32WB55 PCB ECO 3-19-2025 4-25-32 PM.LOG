@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=VDDUSB Pin=L2-2
+Removed Pin From Net: NetName=VDDUSB Pin=U1-33
+Added Pin To Net: NetName=VLXSMPS Pin=L2-2
+Added Pin To Net: NetName=VLXSMPS Pin=U1-33
+Added Net: Name=VLXSMPS
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C1 C0402C104K8RAC
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C2 C0402C104K8RAC
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C3 GRM1555C2AR80BA01D
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C5 C0402
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C7 C0402C104K8RAC
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C8 CL10A475KP8NNND
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C10 CL10A475KP8NNND
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C12 CL10A475KP8NNND
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C13 C0402C104K8RAC
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C15 C0402C104K8RAC
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C17 C0402C104K8RAC
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C18 CL10A475KP8NNND
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C20 C0402
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C22 C0402C104K8RAC
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C24 C0402

@@ -1,0 +1,7 @@
+Change Net Name : Old Net Name=NetIC1_1 New Net Name=Dn
+Change Net Name : Old Net Name=NetIC1_3 New Net Name=Dp
+Change Net Name : Old Net Name=NetJ6_A5 New Net Name=CC1
+Change Net Name : Old Net Name=NetJ6_B5 New Net Name=CC2
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Class: Name=USB

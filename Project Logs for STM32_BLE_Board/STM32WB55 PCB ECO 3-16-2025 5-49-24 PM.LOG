@@ -1,0 +1,34 @@
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=R5 NewDesignator=R7
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Added Component: Designator=R4(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(FP-SHT40-AD1B-R2-MFG)
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=3V3 Pin=R4-2
+Added Pin To Net: NetName=3V3 Pin=R5-2
+Added Pin To Net: NetName=NetL2_2 Pin=U1-40
+Added Pin To Net: NetName=3V3 Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Change Net Name : Old Net Name=NetR6_1 New Net Name=NetR8_1
+Added Pin To Net: NetName=SCL Pin=R4-1
+Added Pin To Net: NetName=SCL Pin=U1-5
+Added Pin To Net: NetName=SCL Pin=U2-2
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=R5-1
+Added Pin To Net: NetName=SDA Pin=U1-6
+Added Pin To Net: NetName=SDA Pin=U2-1
+Added Net: Name=SDA
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component R8 R0402
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component R9 5k1
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component U3 MIC5504-3.3YM5-TR

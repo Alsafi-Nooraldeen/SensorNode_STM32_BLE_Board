@@ -1,0 +1,30 @@
+Added Component: Designator=1(Mounting_Hole)
+Added Component: Designator=2(Mounting_Hole)
+Added Component: Designator=3(Mounting_Hole)
+Added Component: Designator=4(Mounting_Hole)
+Added Pin To Net: NetName=GND Pin=1-0
+Added Pin To Net: NetName=GND Pin=2-0
+Added Pin To Net: NetName=GND Pin=3-0
+Added Pin To Net: NetName=GND Pin=4-0
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component 1 Mounting_Hole
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component 2 Mounting_Hole
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component 3 Mounting_Hole
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component 4 Mounting_Hole
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C1 C0402C104K8RAC
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C3 GRM1555C2AR80BA01D
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C5 C0402
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C7 C0402C104K8RAC
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C8 CL10A475KP8NNND
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C10 CL10A475KP8NNND
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C11 C0402C104K8RAC
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C13 C0402C104K8RAC
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C17 C0402C104K8RAC
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C20 C0402
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C22 C0402C104K8RAC
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C23 CL10A475KP8NNND
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C25 C0402
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component R3 10K
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component R4 10K
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component R5 220ohm
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component R8 R0402
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component R9 5k1

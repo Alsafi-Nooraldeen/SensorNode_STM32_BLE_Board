@@ -1,0 +1,14 @@
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C9 C0402C104K8RAC
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C10 C0402C104K8RAC
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C11 CL10A475KP8NNND
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C12 CL10A475KP8NNND
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C14 C0402C104K8RAC
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C15 C0402C104K8RAC
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C19 CL10A475KP8NNND
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C20 C0402C104K8RAC
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C21 C0402
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C22 C0402
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C23 C0402C104K8RAC
+Added Member To Class: ClassName=STM32_BLE_Board Member=Component C24 CL10A475KP8NNND
